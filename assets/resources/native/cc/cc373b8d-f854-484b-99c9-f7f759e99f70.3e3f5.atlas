@@ -1,0 +1,48 @@
+
+正面走.png
+size: 118,134
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右腿
+  rotate: false
+  xy: 88, 42
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+右臂
+  rotate: false
+  xy: 57, 6
+  size: 29, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+头
+  rotate: true
+  xy: 2, 58
+  size: 74, 71
+  orig: 76, 73
+  offset: 1, 1
+  index: -1
+左腿
+  rotate: false
+  xy: 88, 2
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+左臂
+  rotate: false
+  xy: 75, 82
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+身体
+  rotate: true
+  xy: 2, 6
+  size: 50, 53
+  orig: 54, 55
+  offset: 2, 1
+  index: -1

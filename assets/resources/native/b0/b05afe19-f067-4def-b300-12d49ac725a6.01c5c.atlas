@@ -1,0 +1,34 @@
+
+planB_earth.png
+size: 732,740
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+earth
+  rotate: true
+  xy: 367, 372
+  size: 365, 361
+  orig: 367, 363
+  offset: 1, 1
+  index: -1
+earth1
+  rotate: true
+  xy: 2, 2
+  size: 366, 362
+  orig: 366, 362
+  offset: 0, 0
+  index: -1
+earth2
+  rotate: true
+  xy: 366, 2
+  size: 366, 362
+  orig: 366, 362
+  offset: 0, 0
+  index: -1
+earth3
+  rotate: true
+  xy: 2, 370
+  size: 367, 363
+  orig: 367, 363
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+confetti.png
+size: 80,152
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+confetti_1
+  rotate: false
+  xy: 56, 114
+  size: 21, 36
+  orig: 23, 38
+  offset: 1, 1
+  index: -1
+confetti_10
+  rotate: true
+  xy: 2, 120
+  size: 30, 52
+  orig: 33, 54
+  offset: 1, 1
+  index: -1
+confetti_11
+  rotate: true
+  xy: 2, 65
+  size: 23, 28
+  orig: 25, 30
+  offset: 1, 1
+  index: -1
+confetti_12
+  rotate: false
+  xy: 2, 8
+  size: 18, 30
+  orig: 20, 32
+  offset: 1, 1
+  index: -1
+confetti_13
+  rotate: true
+  xy: 2, 40
+  size: 23, 27
+  orig: 26, 29
+  offset: 1, 1
+  index: -1
+confetti_2
+  rotate: true
+  xy: 48, 32
+  size: 21, 25
+  orig: 23, 27
+  offset: 1, 1
+  index: -1
+confetti_3
+  rotate: false
+  xy: 31, 19
+  size: 15, 37
+  orig: 17, 39
+  offset: 1, 1
+  index: -1
+confetti_4
+  rotate: true
+  xy: 22, 2
+  size: 15, 28
+  orig: 17, 30
+  offset: 1, 1
+  index: -1
+confetti_5
+  rotate: true
+  xy: 2, 90
+  size: 28, 52
+  orig: 30, 54
+  offset: 1, 1
+  index: -1
+confetti_6
+  rotate: false
+  xy: 56, 80
+  size: 20, 32
+  orig: 22, 36
+  offset: 1, 2
+  index: -1
+confetti_7
+  rotate: false
+  xy: 32, 58
+  size: 19, 30
+  orig: 21, 32
+  offset: 1, 1
+  index: -1
+confetti_8
+  rotate: true
+  xy: 52, 9
+  size: 21, 23
+  orig: 23, 25
+  offset: 1, 1
+  index: -1
+confetti_9
+  rotate: true
+  xy: 53, 55
+  size: 23, 25
+  orig: 25, 27
+  offset: 1, 1
+  index: -1
